@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     var topics = ["cats", "dogs", "birds", "bats", "bees", "kangaroos", "owls", "fish", 
-"sharks", "bears", "rabbits", "girraffes"]
+"sharks", "bears", "rabbits", "giraffes"]
 
 
     var makeButtons = function() {
